@@ -1,0 +1,50 @@
+[
+  {
+    "albumId":101,
+    "title":"muskaan",
+    "yearOfRelease":2010,
+    "genres":["rock", "electric"]
+  },
+  {
+    "albumId":102,
+    "title":"rock on",
+    "yearOfRelease":2020,
+    "genres":["rock"]
+  },
+  {
+    "albumId":103,
+    "title":"euphoria",
+    "yearOfRelease":1998,
+    "genres":["rock", "electric", "r&b"]
+  },
+  {
+    "albumId":104,
+    "title":"mohabbat",
+    "yearOfRelease":2015,
+    "genres":["rock"]
+  },
+  {
+    "albumId":105,
+    "title":"bulati hai",
+    "yearOfRelease":2018,
+    "genres":["hip hop"]
+  },
+  {
+    "albumId":106,
+    "title":"dil",
+    "yearOfRelease":2020,
+    "genres":["classical", "pop"]
+  },
+  {
+    "albumId":107,
+    "title":"jaaneman",
+    "yearOfRelease":1999,
+    "genres":["pop", "rock"]
+  },
+  {
+    "albumId":108,
+    "title":"ishq vishq",
+    "yearOfRelease":1990,
+    "genres":["rock", "electric", "hip hop"]
+  }
+]

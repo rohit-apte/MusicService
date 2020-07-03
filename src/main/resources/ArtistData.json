@@ -1,0 +1,74 @@
+[
+  {
+    "artistId":1,
+    "name":"sukbir"
+  },
+  {
+    "artistId":2,
+    "name":"a r rahman"
+  },
+  {
+    "artistId":3,
+    "name":"arijit singh"
+  },
+  {
+    "artistId":4,
+    "name":"shankar ehsan loy"
+  },
+  {
+    "artistId":5,
+    "name":"sonu nigam"
+  },
+  {
+    "artistId":6,
+    "name":"baba sehgal"
+  },
+  {
+    "artistId":7,
+    "name":"kishore kumar"
+  },
+  {
+    "artistId":8,
+    "name":"mohd rafi"
+  },
+  {
+    "artistId":9,
+    "name":"r d burman"
+  },
+  {
+    "artistId":10,
+    "name":"mukesh"
+  },
+  {
+    "artistId":11,
+    "name":"kumar sanu"
+  },
+  {
+    "artistId":12,
+    "name":"udit narayan"
+  },
+  {
+    "artistId":13,
+    "name":"aditya narayan"
+  },
+  {
+    "artistId":14,
+    "name":"pappy"
+  },
+  {
+    "artistId":15,
+    "name":"lata mangeshkar"
+  },
+  {
+    "artistId":16,
+    "name":"shyeya goshal"
+  },
+  {
+    "artistId":17,
+    "name":"kavita krishnmurthy"
+  },
+  {
+    "artistId":18,
+    "name":"himesh reshmiya"
+  }
+]
