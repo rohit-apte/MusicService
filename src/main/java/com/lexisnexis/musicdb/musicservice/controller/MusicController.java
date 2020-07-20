@@ -20,6 +20,24 @@ public class MusicController {
     @Autowired
     private MusicService musicService;
 
+
+    @GetMapping("/")
+    public String home(){
+        return ("<h1>Welcome</h1>");
+    }
+
+    @GetMapping("/user")
+    public String user(){
+        return ("<h1>Welcome User</h1>");
+    }
+
+
+
+    @GetMapping("/admin")
+    public String admin(){
+        return ("<h1>Welcome Admin</h1>");
+    }
+
     @RequestMapping(value = "/test", method = RequestMethod.GET)
     public ResponseEntity<String> test() {
         return ResponseEntity.ok("Alive");
